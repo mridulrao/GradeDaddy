@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="FoUueJixNW2NSmDA61GZ">
+    <mxGraphModel dx="1908" dy="2310" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pilwrOAEcxMtQSOfMayK-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=blockThin;startFill=1;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-1" target="pilwrOAEcxMtQSOfMayK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-1" value="Questions and Rubriks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-2" target="pilwrOAEcxMtQSOfMayK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-2" value="Extract Question&amp;nbsp;&lt;div&gt;Extract Rubrik&amp;nbsp;&lt;/div&gt;&lt;div&gt;Break down rubrik -&amp;nbsp;&lt;/div&gt;&lt;div&gt;Score Earned / Rubrickpoint&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="220" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-3" target="pilwrOAEcxMtQSOfMayK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-3" value="Answer Sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=block;startFill=1;entryX=0;entryY=0;entryDx=120;entryDy=150;entryPerimeter=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-4" target="pilwrOAEcxMtQSOfMayK-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-4" target="pilwrOAEcxMtQSOfMayK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-4" value="Extract Question(for mapping)&lt;div&gt;Extract Answer&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-6" value="Question-Rubrick Matrix-Answer&lt;div&gt;Key pair&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="530" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-9" target="pilwrOAEcxMtQSOfMayK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-9" value="Agent score each answer and give marks for each rubrick point given.&lt;div&gt;Generate explanation why score was deducted and given (optional)&lt;/div&gt;" style="shape=loopLimit;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="170" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-10" target="pilwrOAEcxMtQSOfMayK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-10" value="Rubrick might be generic for each question. Need to be breaken down what is expected key-phrases-sentences and corresponding scores for them." style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="344" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-12" target="pilwrOAEcxMtQSOfMayK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-12" value="TA evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="507.5" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-13" value="Confidence based scoring??" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="760" y="400" width="240" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-14" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" target="pilwrOAEcxMtQSOfMayK-13" parent="1" source="pilwrOAEcxMtQSOfMayK-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="480" as="sourcePoint" />
+            <mxPoint x="570" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-15" value="Calculate final score - generate report - for better exam analysis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="500" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-16" target="pilwrOAEcxMtQSOfMayK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-16" value="ChatGPT based agent&lt;div&gt;RAG needed??&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="-60" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=120;exitDy=150;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-20" target="pilwrOAEcxMtQSOfMayK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-20" value="OCR Agent&lt;div&gt;Text Validator&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-130" width="220" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-30" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="973.3333333333334" as="sourcePoint" />
+            <mxPoint x="710" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-31" target="pilwrOAEcxMtQSOfMayK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-31" value="Question-Rubrick Matrix-Answer&lt;div&gt;Key pair&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="740" y="200" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pilwrOAEcxMtQSOfMayK-33" target="pilwrOAEcxMtQSOfMayK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pilwrOAEcxMtQSOfMayK-33" value="TA evaluation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="140" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
